@@ -1,32 +1,35 @@
-**Principles of the INGV Data Policy**
++-------------------------------+
+| |ingv_logo_text_two_lines|    |
++-------------------------------+
 
-**Data Policy Working Group (PoliDat)**
 
-Giuseppe Puglisi (Coordinator)
+##################################
+Principles of the INGV Data Policy
+##################################
 
-Roberto Basili
+:Authors:
+        Giuseppe Puglisi (Coordinator)
+        Roberto Basili
+        Anna Grazia Chiodetti
+        Antonella Cianchi
+        Massimiliano Drudi
+        Carmela Freda
+        Mario Locati
+        Maurizio Pignone
+        Agata Sangianantoni
 
-Anna Grazia Chiodetti
+ :Date: 13 February 2016
 
-Antonella Cianchi
-
-Massimiliano Drudi
-
-Carmela Freda
-
-Mario Locati
-
-Maurizio Pignone
-
-Agata Sangianantoni
-
-**13 February 2016**
+.. highlights::
+   Principles of the INGV Data Policy
 
 .. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
+   :maxdepth: 3
 
-  table-of-contents.rst
-  introduction.rst
-  definitions.rst
-  principles.rst
+..   table-of-contents.rst
+
+   introduction.rst
+   definitions.rst
+   principles.rst
+
+.. |ingv_logo_text_two_lines| image:: images/ingv_logo_text_two_lines.png
