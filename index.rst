@@ -24,12 +24,13 @@ Principles of the INGV Data Policy
    Principles of the INGV Data Policy
 
 .. toctree::
-   :maxdepth: 3
+   :numbered:
+   :hidden:
 
-..   table-of-contents.rst
+   doc/introduction.rst
+   doc/definitions.rst
+   doc/principles.rst
 
-   introduction.rst
-   definitions.rst
-   principles.rst
+.. table_of_contents.rst commented out since it should be created by system
 
 .. |ingv_logo_text_two_lines| image:: images/ingv_logo_text_two_lines.png
