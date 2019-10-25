@@ -1,7 +1,7 @@
 document:
-  name: Data policy principles of INGV
+  name: Principles of the INGV Data Policy
   description: |
-    Data policy principles of the Istituto Nazionale di Geofisica e Vulcanologia.
+    Principles of the Data Policy of the Istituto Nazionale di Geofisica e Vulcanologia.
   tags:
     - INGV
     - data policy
